@@ -1,1 +1,1 @@
-MoonShot strategy for Moon Bot Trading terminal. 
+#MoonShot strategy for Moon Bot Trading terminal. 
